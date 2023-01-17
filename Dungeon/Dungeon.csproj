@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Esya_Iksirler\" />
+    <Folder Include="Esya_Kitaplar\" />
+    <Folder Include="Esya_BossEsyalar\" />
+    <Folder Include="Esya_Silahlar\" />
+    <Folder Include="Esya_Zirhlar\" />
+    <Folder Include="Esya_Yemekler\" />
+    <Folder Include="Esya_Esyalar\" />
+  </ItemGroup>
+
+</Project>
